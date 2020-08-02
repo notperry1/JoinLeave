@@ -1,0 +1,4 @@
+name: Joinleave
+version: ${project.version}
+main: dev.toastmc.joinleave.Main
+api-version: 1.16
