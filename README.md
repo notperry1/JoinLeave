@@ -1,4 +1,4 @@
-# JoinLeave
-Small plugin to change the join leave message format.
+# Join Leave
+Simple Plugin that changes the colour of the join and leave messages to gray and prints purple message for player that join for the first time.
 
-1.16.1 Paper
+1.16+ Paper
